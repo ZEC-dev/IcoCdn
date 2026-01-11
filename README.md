@@ -1,0 +1,2 @@
+# IcoCdn
+AwesomeIcoCdn
